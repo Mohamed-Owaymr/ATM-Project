@@ -58,12 +58,12 @@ The goal is to simulate a basic banking system with clean, modular, and reusable
 
 ## 📂 Project Structure
 ATM-Project/
-├── main.cpp # Main controller logic
-├── utility.cpp # Functional modules for transactions, I/O
-├── utility.h # Function declarations and shared types
-├── Clients.txt # Sample data storage file
-├── README.md # Project description
-└── .gitignore # Ignored files and build outputs
+- main.cpp # Main controller logic
+- utility.cpp # Functional modules for transactions, I/O
+- utility.h # Function declarations and shared types
+- Clients.txt # Sample data storage file
+- README.md # Project description
+- .gitignore # Ignored files and build outputs
 
 ---
 
